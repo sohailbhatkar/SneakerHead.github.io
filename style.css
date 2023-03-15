@@ -509,6 +509,10 @@ footer{
     .search {
         display: none;
     }
+    
+    .limitedOffer {
+        display: none;
+    }
 
     .menuItem {
         margin: 15px;
